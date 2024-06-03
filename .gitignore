@@ -1,0 +1,50 @@
+# Rstudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# R
+.Rapp.history
+.Rhistory
+
+# Mac OSX
+.DS_Store
+
+# Data
+*.csv
+*.xls
+*.xlsx
+*~*
+
+# C++
+*.o
+*.so
+
+# PDFs
+*.pdf
+
+# Emacs
+backups/
+*.org#
+*~
+\#*\#
+\.\#*
+
+# Latex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+ltximg/
+temp/
+
+# Tex
+*.bbl
+*.odt
+*.tex
+
+# Vignettes
+inst/doc
